@@ -69,7 +69,7 @@
 
 
 
-*You can set your commend*  :=  strings/command.yml (after fork change this) 
+**You can set your commend  :=  strings/command.yml (after fork change this)**
 
 =======================================================================
 
